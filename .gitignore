@@ -6,4 +6,4 @@
 .DS_Store
 /buildtest
 /bin
-/www/vendor
+/bin/
